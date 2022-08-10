@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654547084912",
+    "project_id": "everymove-7b7c6",
+    "storage_bucket": "everymove-7b7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654547084912:android:21a4aa64c53071f277b6b5",
+        "android_client_info": {
+          "package_name": "com.example.everymove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654547084912-itbeqn273g37cje3jgraltasnk3vmeo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_My7OYC0h8lU8NF18w8VqdyCrt6Mf94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654547084912-itbeqn273g37cje3jgraltasnk3vmeo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
